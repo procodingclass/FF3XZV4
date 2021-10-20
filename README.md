@@ -1,2 +1,2 @@
-# Tablet-SPCK-PRO-C6-Teacher-Reference-Code
+# Tablet-SPCK-PRO-C15-Teacher-Reference-Code
 Teacher Reference Code
